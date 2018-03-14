@@ -3,6 +3,9 @@ before the Nougat 2016.12.06.05.21.23 release should be taken with a grain of
 salt since we weren't really publishing them yet so it wasn't being done very
 carefully.
 
+CopperheadOS started in 2014 based on Android KitKat but we only started
+keeping more user friendly changelogs late in the Marshmallow era.
+
 The Nexus 9 maintenance branch is not included. It split off when the other
 devices moved to nougat-mr2-release and continued after the other devices moved
 to Oreo-based releases. It may be included here in the future but we wanted to
