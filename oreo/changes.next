@@ -1,4 +1,8 @@
+Changes since 2018.03.13.20:
+
 - include TalkBack and Switch Access accessibility services since they're now open source
+- Pixel 2, Pixel 2 XL: kernel: cherry-pick stable kernel commits from 4.4.121 to 4.4.122
+- Pixel, Pixel XL: kernel: cherry-pick stable kernel commits from 3.18.99 to 3.18.100
 - PDF Viewer: make prerendering work again after refactoring
 - PDF Viewer: fix prerendering previous page
 - PDF Viewer: switch from getTextContent to streamTextContent
