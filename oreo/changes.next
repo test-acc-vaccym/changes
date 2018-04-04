@@ -1,0 +1,4 @@
+- use Cloudflare DNS as the default fallback: Cloudflare DNS has a better privacy policy than Google Public DNS and has DNS-over-TLS and DNS-over-HTTPS so it won't be a downgrade when Android ships one of them.
+- tethering: use Cloudflare DNS servers as defaults
+- NetworkDiagnostics: switch to Cloudflare DNS
+- SettingsLib: use Cloudflare DNS servers as hints
