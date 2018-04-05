@@ -3,3 +3,4 @@
 - NetworkDiagnostics: switch to Cloudflare DNS
 - SettingsLib: use Cloudflare DNS servers as hints
 - Settings: expose audio recording user restriction
+- Settings: expose install apps user restriction
