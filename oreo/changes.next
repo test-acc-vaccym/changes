@@ -2,3 +2,4 @@
 - tethering: use Cloudflare DNS servers as defaults
 - NetworkDiagnostics: switch to Cloudflare DNS
 - SettingsLib: use Cloudflare DNS servers as hints
+- Settings: expose audio recording user restriction
