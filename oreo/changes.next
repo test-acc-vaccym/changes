@@ -4,3 +4,10 @@
 - SettingsLib: use Cloudflare DNS servers as hints
 - Settings: expose audio recording user restriction
 - Settings: expose install apps user restriction
+- Pixel, Pixel XL: kernel: cherry-pick stable kernel commits from 3.18.102 to 3.18.103
+- Pixel, Pixel XL: kernel: cherry-pick stable kernel commits from 3.18.103 to 3.18.104
+- Pixel, Pixel XL: kernel: cherry-pick stable kernel commits from 3.18.104 to 3.18.105
+- Pixel 2, Pixel 2 XL: kernel: cherry-pick stable kernel commits from 4.4.126 to 4.4.127
+- Pixel 2, Pixel 2 XL: kernel: cherry-pick stable kernel commits from 4.4.127 to 4.4.128
+- Nexus 5X, Nexus 6P: enable ro.control_privapp_permissions=enforce for real by fixing typo copied from Google documentation (already properly enabled on the Pixel (XL) and Pixel 2 (XL) via our contributions to android-prepare-vendor)
+- Chromium: update from 66.0.3359.106 to 66.0.3359.106
