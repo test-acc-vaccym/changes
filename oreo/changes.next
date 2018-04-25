@@ -1,3 +1,5 @@
 Changes since 2018.04.19.04:
 
 - Chromium: disable popular sites field trial
+- Pixel, Pixel XL: kernel: cherry-pick stable kernel commits from 3.18.105 to 3.18.106
+- Pixel 2, Pixel 2 XL: kernel: cherry-pick stable kernel commits from 4.4.128 to 4.4.129
