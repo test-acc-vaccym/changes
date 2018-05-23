@@ -1,3 +1,4 @@
 Changes since 2018.05.15.17:
 
 - Pixel, Pixel XL: kernel: cherry-pick stable kernel commits from 3.18.108 to 3.18.109
+- Pixel 2, Pixel 2 XL: kernel: cherry-pick stable kernel commits from 4.4.131 to 4.4.132
